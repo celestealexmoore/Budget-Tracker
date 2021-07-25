@@ -1,5 +1,4 @@
 # Budget Tracker
-  [![License: WTFPL](https://img.shields.io/badge/License-${license}.svg)]
 
   ## Table of Contents
 
@@ -19,7 +18,7 @@
 
   ## Deployment
   
-  [This application is deployed via Heroku](./utils/readme-generator-vid.mov)
+  [This application is deployed via Heroku]()
 
   ## Contributors
   This project was created by Celeste Moore.
